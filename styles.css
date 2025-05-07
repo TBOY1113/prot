@@ -424,7 +424,9 @@ img {
     animation: popoutwork 0.4s;
 }
 
-
+#progsInterfacePhotography {
+    display:none;
+}
 
 #progsInterfacePhotography div:nth-child(1) {
     background:url(Images/racingeyes.webp);
@@ -455,6 +457,9 @@ img {
     animation: popoutwork 0.4s; 
 }
 
+#progsInterfaceVideography {
+    display:none;
+}
 
 #progsInterfaceVideography div:nth-child(1) {
     background:url(Images/movie.webp);
